@@ -1,12 +1,11 @@
 ## Hi there 👋
 
+## A little about me
+### - I am currently dual majoring in Software Development and Information Management, and Cybersecurity and Information Assurance
+### - I am very interested and passionate about software development/engineering and cybersecurity
+
 <!--
 **JayceProgramming/JayceProgramming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
